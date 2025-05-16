@@ -52,7 +52,7 @@ The model takes the following features as input:
 
 1. **Clone the repository**
    ```bash
-   https://github.com/Dhivakar2005/Roadity.git
+   https://github.com/Sathish309911/Roadity.git
    cd rodity
 
 2. **Install dependencies**
